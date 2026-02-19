@@ -1,2 +1,1 @@
-# .github
-Default content for the XEventStore organization on GitHub
+![XEventStore](images/built-for-building.png) 
