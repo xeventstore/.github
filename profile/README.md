@@ -1,1 +1,1 @@
-![XEventStore](../images/built-for-building.png) 
+![XEventStore](https://github.com/xeventstore/.github/blob/main/images/built-for-building.png) 
