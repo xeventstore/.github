@@ -1,1 +1,0 @@
-![XEventStore](images/built-for-building.png) 
